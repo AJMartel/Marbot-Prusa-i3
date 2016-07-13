@@ -25,3 +25,5 @@ https://www.youtube.com/watch?v=nG4h_jLxDRY Demo of what it will be able to do.
 *3 x MK9 bowden extruders to replace single MK8 extruder
 
 *RUMBA motherboard to replace MKS Base V 1.2
+
+*OctoPrint on the Raspberry Pi 2 for wireless printing
