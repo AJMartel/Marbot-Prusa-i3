@@ -27,3 +27,5 @@ https://www.youtube.com/watch?v=nG4h_jLxDRY Demo of what it will be able to do.
 *RUMBA motherboard to replace MKS Base V 1.2
 
 *OctoPrint on the Raspberry Pi 2 for wireless printing
+
+UUID V3 c4fda809-90e0-3707-8a05-3464abaf5fb4
