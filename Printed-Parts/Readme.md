@@ -1,5 +1,7 @@
 All migbot electron prusa i3 printed parts http://www.thingiverse.com/thing:1021573
 
+Modified Parts from original base model
+
 - Z_Axis_Autolevel_Probe_Mount.stl           http://www.thingiverse.com/thing:884004
 - Z_Axis_Autolevel_Probe_Base.stl            http://www.thingiverse.com/thing:884004
 - Z_Axis_Carriage_tensioner-Right.stl        http://www.thingiverse.com/thing:882577
