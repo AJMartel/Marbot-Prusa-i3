@@ -11,6 +11,6 @@ Modified Parts from original base model
 - Migbot_MKS_BASE_v1.2_Lid.stl               http://www.thingiverse.com/thing:1664117
 - Desk_Mount_Back_x2.stl                     http://www.thingiverse.com/thing:1703006
 - Desk_Mount_Front_x2.stl                    http://www.thingiverse.com/thing:1703006
-- Fan_Duct-HotHead.stl                       http://www.thingiverse.com/thing:1481848
+- Fan_Duct-HotHead.stl                       http://www.thingiverse.com/thing:1481848 & 1674794 & 1674794
 - Spool_Holder_LCD_Spacer.stl                http://www.thingiverse.com/thing:1448507
 - Z_Axis_Stabilising_Cap.stl                 http://www.thingiverse.com/thing:1484501
